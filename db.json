@@ -147,7 +147,7 @@
         {
             "id": 13,
             "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-            "price": 599,
+            "price": 59,
             "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
             "category": "electronics",
             "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
@@ -159,7 +159,7 @@
         {
             "id": 14,
             "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-            "price": 999.99,
+            "price": 99.99,
             "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
             "category": "electronics",
             "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
@@ -238,6 +238,378 @@
             "rating": {
                 "rate": 3.6,
                 "count": 145
+            }
+        },
+        {
+            "id": 21,
+            "title": "Кроссовки adidas Yeezy Boost 700",
+            "price": 199,
+            "description": "Enflame Amber/Orange",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/d39/500_500_1/aevbcf4x8yaravsiqrogklqb8qswmv2b.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 440
+            }
+        },
+        {
+            "id": 22,
+            "title": "Кроссовки adidas Yeezy Boost 700 MNVN",
+            "price": 190,
+            "description": "Laceless Phosphor",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/e0c/500_500_1/jrwejlqbwcpxnorhhp0ty73bb2t9mhzf.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 480
+            }
+        },
+        {
+            "id": 23,
+            "title": "Кроссовки adidas Yeezy QNTM Quantum",
+            "price": 200,
+            "description": "Frozen Blue/Frozen Blue",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/f6f/500_500_1/qz7851dzkvey6q0x8648jadeyen73o4r.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 30
+            }
+        },
+        {
+            "id": 24,
+            "title": "Кроссовки ASICS HS4-S Gel-Sonoma 15-50 Gore-Tex",
+            "price": 210,
+            "description": "Зеленый",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/d32/500_500_1/ma29241g5pnxggtludli34go8doqxr0p.jpg",
+            "rating": {
+                "rate": 1.9,
+                "count": 140
+            }
+        },
+        {
+            "id": 25,
+            "title": "Кроссовки New Balance 327",
+            "price": 189,
+            "description": "Grey/White",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/4eb/500_500_1/n0w2041nk25kxbf5363hez2ib0ovlcs2.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 40
+            }
+        },
+        {
+            "id": 26,
+            "title": "Кроссовки Streetbeat Fellow",
+            "price": 51,
+            "description": "Темно-синий",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/f42/500_500_1/946rd96glf2jl0fkhl9pk0lllzz1a4s6.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 440
+            }
+        },
+        {
+            "id": 27,
+            "title": "Кроссовки adidas Yeezy Desert Boot",
+            "price": 190,
+            "description": "Rock/Rock/Rock",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/2b8/500_500_1/xn0wz5zb1f3z371hgu56s8ab0mfw5yvb.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 640
+            }
+        },
+        {
+            "id": 28,
+            "title": "Кроссовки Reebok x Kung-Fu Panda Zig Kinetica",
+            "price": 79,
+            "description": "Арт. GZ8641",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/8ac/500_500_1/8ac2aa89d1e4c804d4570f16cee88bae.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 1000
+            }
+        },
+        {
+            "id": 29,
+            "title": "Кроссовки adidas Top Ten",
+            "price": 100,
+            "description": "Cloud White / Chalk White / Cloud White",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/680/500_500_1/680b8ba284b209657eff03a023c00566.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 470
+            }
+        },
+        {
+            "id": 30,
+            "title": "Кроссовки Reebok Zig Kinetica Edge",
+            "price": 77,
+            "description": "Арт. GY3575",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/237/500_500_1/ss7bxw73ho6v7j8p1n1u05pza91843cu.jpg",
+            "rating": {
+                "rate": 1,
+                "count": 4
+            }
+        },
+        {
+            "id": 31,
+            "title": "Кроссовки ASICS Above the Clouds Skycourt",
+            "price": 169,
+            "description": "Бежевый",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/446/500_500_1/szirkp9mzkdpoqkq029lscz8w3c81ij7.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 200
+            }
+        },
+        {
+            "id": 32,
+            "title": "Кроссовки Streetbeat Hood Keeper",
+            "price": 49,
+            "description": "Желтый",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/377/500_500_1/6y9yor169udk8zilefaprwlk03nw9vx8.jpg",
+            "rating": {
+                "rate": 2,
+                "count": 300
+            }
+        },
+        {
+            "id": 33,
+            "title": "Кроссовки Jordan Air Jordan 1 Mid Alternate Bred",
+            "price": 219,
+            "description": "Black/White/Fire Red",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/551/500_500_1/mnd81g2fv114nkyag8to18uym2fpoxwm.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 3
+            }
+        },
+        {
+            "id": 34,
+            "title": "Кроссовки Streetbeat Woodstone",
+            "price": 64,
+            "description": "Черный",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/1bd/500_500_1/67uimnmo83e3q37lg5k9xbknkdby39jm.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 440
+            }
+        },
+        {
+            "id": 35,
+            "title": "Кроссовки Reebok BB 4000 II",
+            "price": 130,
+            "description": "Chalk/Varsity Green",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/63f/500_500_1/3dqblygd853sit4q1qatvau2gl8a3f9z.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 340
+            }
+        },
+        {
+            "id": 36,
+            "title": "Кроссовки PUMA 180",
+            "price": 139,
+            "description": "White/Black",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/a47/500_500_1/z15gk831h2yxkz612cm7znod7vie72bv.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 700
+            }
+        },
+        {
+            "id": 37,
+            "title": "Кроссовки Salomon Alphacross 4",
+            "price": 132,
+            "description": "Multi",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/fa9/500_500_1/mwe5or4zze2dron868nr9svvbzwxufv2.jpg",
+            "rating": {
+                "rate": 2.6,
+                "count": 235
+            }
+        },
+        {
+            "id": 38,
+            "title": "Кроссовки Salomon Supercross 4",
+            "price": 145,
+            "description": "Black",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/42e/500_500_1/o17rtwmuarminqwua5405t4uftsfjl0u.jpg",
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        {
+            "id": 39,
+            "title": "Кроссовки PUMA Court Rider",
+            "price": 134,
+            "description": "Chaos Slash",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/2ce/500_500_1/dcozty2fc2u209k7k3ti9ot8lh77nngo.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 40,
+            "title": "Кроссовки HUGO GO1ST Pume",
+            "price": 160,
+            "description": "White",
+            "category": "Shoes",
+            "image": "https://static.street-beat.ru/upload/resize_cache/iblock/4d9/500_500_1/xx90xxja765mz7731xey1rpx634btma6.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 41,
+            "title": "механическая клавиатура",
+            "price": 87,
+            "description": "механическая Gateron Yellow Pro, клавиш - 67, USB, фиолетовая",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/2b64ab4b0f71d0cc3046a7b89b36de2b/5b57e3b02964e373a3ffa5b57cfe2ab4e734a0c79a2b6ec561c837b366788766.jpg.webp",
+            "rating": {
+                "rate": 5,
+                "count": 4
+            }
+        },
+        {
+            "id": 42,
+            "title": "ПК ARDOR GAMING RAGE H290",
+            "price": 1000,
+            "description": " Intel Core i5-12400F, 6 x 2.5 ГГц, 16 ГБ DDR4, GeForce RTX 3060, SSD 512 ГБ, без ОС",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/320/250/5700ae0c0425e43e0b81cdc9276ab17f/874c7e0bcbf01a942d048fad2e8d383e005907639b59edff927bf2c906197f25.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 200
+            }
+        },
+        {
+            "id": 43,
+            "title": "Микрофон Fifine A8 черный",
+            "price": 70,
+            "description": "проводной, настольный, -40 дБ, от 50 Гц до 20000 Гц, кабель - 160 см, jack 3.5 мм, USB Type-C",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/320/250/a9c710cd3a4d5911acaa5a58c5921da0/fe153582c67276ebc87a6071547fc336d425c15a11203c1f937255ce041207e2.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 300
+            }
+        },
+        {
+            "id": 44,
+            "title": "Мышь беспроводная/проводная ARDOR GAMING Phantom PRO",
+            "price": 60,
+            "description": "черный [26000 dpi, светодиодный, USB Type-A, кнопки - 6]",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st1/fit/320/250/122791c8ed428521339a5bee00affd53/804e8b3807f885e6a3fe9ac95097304042321416e79e01bd906995e0950a76e7.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 3
+            }
+        },
+        {
+            "id": 45,
+            "title": "Мышь беспроводная LAMZU Atlantis",
+            "price": 84,
+            "description": "Atlantis голубой [26000 dpi, светодиодный, USB Type-C, кнопки - 6]",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/320/250/9a214014e5e03021488df6bc7881fc96/29dbbe89086988230ac75dfb5097261594aa867b6e032ac6b540e647ade48d98.jpg",
+            "rating": {
+                "rate": 4.9,
+                "count": 440
+            }
+        },
+        {
+            "id": 46,
+            "title": "Клавиатура проводная+беспроводная ARDOR GAMING Guardian",
+            "price": 85,
+            "description": " [механическая Gateron Yellow Pro, клавиш - 97, Bluetooth, USB, радиоканал, черная]",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/320/250/e5eb564f33495b15ee3c1500c0051f56/70edebf0e5b861994da66fe7c1c3562c33a846fd7bc78cfd6ba71aa843826070.jpg",
+            "rating": {
+                "rate": 4,
+                "count": 340
+            }
+        },
+        {
+            "id": 47,
+            "title": "NZXT ПК",
+            "price": 5000,
+            "description": "компьютер с GeForce RTX 3080 в виде кроссовка",
+            "category": "electronics",
+            "image": "https://3dnews.ru/assets/external/illustrations/2021/01/21/1030646/sm.1.750.jpg",
+            "rating": {
+                "rate": 5,
+                "count": 1200
+            }
+        },
+        {
+            "id": 48,
+            "title": "Ноутбук Huawei MateBook D 16 RLEF-X",
+            "price": 700,
+            "description": "1920x1200, IPS, Intel Core i5-12450H, ядра: 4 + 4 х 2 ГГц, RAM 16 ГБ, SSD 512 ГБ, Intel UHD Graphics , Windows 11 Home Single Language",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st4/fit/500/500/8111006211ba65d6289e12712574f6c9/82c76b7d3ab988b78b05b2c7cc07b452960d34a638247f3cf5701794aa9cd1df.jpg.webp",
+            "rating": {
+                "rate": 2,
+                "count": 20
+            }
+        },
+        {
+            "id": 49,
+            "title": "Подставка для наушников Оклик GMNG HSS-502",
+            "price": 50,
+            "description": "установка - настольная, пластик, черный",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st1/fit/500/500/039f81df7e072df0553ceef54d586127/93e5a8c2ac80e1cdeddc4f762a088cd90331255b6cb05f5b7c7cb69417b2c678.jpg.webp",
+            "rating": {
+                "rate": 4.3,
+                "count": 250
+            }
+        },
+        {
+            "id": 50,
+            "title": "ПК ARDOR GAMING NEO M118",
+            "price": 400,
+            "description": "[Intel Core i3-10105F, 4 x 3.7 ГГц, 16 ГБ DDR4, GeForce GTX 1650, SSD 500 ГБ, без ОС]",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st1/fit/320/250/5fd34ce03d7013294b5662e782d03ca6/a71153022cc5b441a92f2f76155969c348f518b82cb47677d53f4671309b169f.jpg",
+            "rating": {
+                "rate": 4.3,
+                "count": 10
+            }
+        },
+        {
+            "id": 51,
+            "title": "PlayStation DualSense",
+            "price": 80,
+            "description": "Геймпад беспроводной PlayStation DualSense CFI-ZCT1J белый [для Android, iOS, PS5, подключение - Bluetooth, виброотдача, гироскоп, питание - аккумулятор]",
+            "category": "electronics",
+            "image": "https://c.dns-shop.ru/thumb/st1/fit/320/250/20c93ee4ceeeb7e92f20c961ba255638/12ae84209fe23ff5921994aaf7d25c3f1ecfd3f57ee94c4878c917413b65414f.png",
+            "rating": {
+                "rate": 3.9,
+                "count": 640
             }
         }
     ]

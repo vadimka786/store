@@ -450,3 +450,15 @@ body {
 .footer__link:hover svg path {
   fill: #6C3EB8;
 }
+
+/* Other Pages */
+.div-container-btn-page {
+  display: flex;
+  justify-content: center;
+}
+.btn-pages-Products:not(:last-child) {
+  margin-right: 10px;
+}
+.trending__row-mens {
+  margin-bottom: 30px;
+}

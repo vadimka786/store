@@ -43,7 +43,7 @@ const getTrendsTovar = (limit = 5) => {
     })
 };
 
-getTrendsTovar()
+getTrendsTovar();
 
 
 TrendBbtn.addEventListener("click", () => {
@@ -122,7 +122,7 @@ Lessthan100Btn.addEventListener("click", () => {
         Lessthan100Btn.textContent = "See more"
         localStorage.setItem("BtnMoreLess100", "visible")
     }
-})
+});
 
 document.addEventListener("DOMContentLoaded", () => {
     const BtnMoreLess100 = localStorage.setItem("BtnMoreLess100", "Hide");
@@ -133,4 +133,4 @@ document.addEventListener("DOMContentLoaded", () => {
         getTovarLess100();
         Lessthan100Btn.textContent = "See more"
     }
-})
+});
