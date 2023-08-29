@@ -9,6 +9,7 @@ let letAllProducts = `http://localhost:3000/products?_page=${page}&_limit=10`;
     fetch(letAllProducts)
     .then((resolve) => resolve.json())
     .then((resolve) => {
+        Productsrow.innerHTML = ""
         resolve.forEach((item) => {
             Productsrow.innerHTML += `
             <div class="trending__card">
@@ -40,16 +41,40 @@ getAllProducts();
 
 
 const getAllProductsCount = () => {
+
+
     fetch(`http://localhost:3000/products`)
     .then((response) => response.json())
     .then((response) => {
         for(let i = 1; i <= Math.ceil(response.length / 10); i++) {
             ProductsPage.innerHTML +=`
-            <button data-id="${i}" class="mens-pagination-btn btn btn-pages-Products" >
+            <button data-id="${i}" class="mens-pagination-btn btn btn-pages-Products" style="background: ${page == i ? "#6C3EB8" : "#212123"}">
                     ${i}
             </button>
             `
         }
+
+        let paginationBtns = document.querySelectorAll(".mens-pagination-btn")
+
+        Array.from(paginationBtns).forEach((item) => {
+            item.addEventListener("click", () => {
+                page = +item.dataset.id
+
+                Array.from(paginationBtns).forEach((el) => {
+                    if(page == +el.dataset.id) {
+                        el.style.background = "#6C3EB8";
+                    } else {
+                        el.style.background = "#212123";
+                    }
+                });
+
+                getAllProducts();
+            })
+        }) 
+
+        
     })
 }
+
+
 getAllProductsCount();
